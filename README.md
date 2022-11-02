@@ -1,7 +1,8 @@
 # Information-Management-types
-You might visit me
+You might visit me:
 
-### TYPES AND RELATIONSHIP
+### TYPES and RELATIONSHIP
+#
 >What are the 3 cardinality of relationships?
 >
 >**Ans:**
@@ -38,15 +39,15 @@ You might visit me
 >
 >**Ans:**
 >
->`First Normal Form`
->`Second Normal Form`
->`Third Normal Form` 
->`Fourth Normal Form`
->`Fifth Normal Form`
->`Boyce Codd Normal Form`
+>`First Normal Form`,
+>`Second Normal Form`,
+>`Third Normal Form`,
+>`Fourth Normal Form`,
+>`Fifth Normal Form`,
+>`Boyce Codd Normal Form`,
 >`Domain Key Normal Form`
 #
->What are the terms in Domain Key Normal Form?
+>What are the 3 terms in Domain Key Normal Form?
 >
 >**Ans:**
 >
