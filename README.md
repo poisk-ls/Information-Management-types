@@ -4,6 +4,14 @@ You might visit me:
 
 ### TYPES and RELATIONSHIP
 #
+>What are the 3 degree types of relationships?
+>
+>**Ans:**
+>
+>`Unary (one-to-one)`
+>`Binary (one-to-many)`
+>`Ternary (many-to-many)`   
+#
 >What are the 3 cardinality of relationships?
 >
 >**Ans:**
@@ -16,8 +24,8 @@ You might visit me:
 >
 >**Ans:**
 >
->`Mandatory-to-One`
->`Mandatory-to-Many`
+>`Mandatory One`
+>`Mandatory Many`
 >`Optional one`
 >`Optional  Many` 
 #
