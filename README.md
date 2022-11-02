@@ -1,4 +1,5 @@
-# Information-Management-types
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Information-;☣️+Management-;☣️+Type+☣️)
+
 You might visit me:
 
 ### TYPES and RELATIONSHIP
